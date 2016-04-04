@@ -1,0 +1,1 @@
+windump -i 1 -q -n -C 30 -W 10 -U -s 0 >C:\perflogs\trace.csv
